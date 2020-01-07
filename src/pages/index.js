@@ -20,7 +20,7 @@ const IndexPage = () => (
         {" "}
         <b>
           <a
-            href="mailto:rd@tisgulf.com"
+            href="mailto:rz@tisgulf.com"
             style={{ color: "#262324", textDecoration: "none" }}
           >
             rd@tisgulf.com
