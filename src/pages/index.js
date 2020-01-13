@@ -23,7 +23,7 @@ const IndexPage = () => (
             href="mailto:rz@tisgulf.com"
             style={{ color: "#262324", textDecoration: "none" }}
           >
-            rd@tisgulf.com
+            rz@tisgulf.com
           </a>
         </b>
       </p>
